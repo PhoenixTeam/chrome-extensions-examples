@@ -2,6 +2,8 @@
 
 **This is not an official mirror of the Chrome extension examples. Report any issues with the examples themselves to Google's issue trackers/forums.**
 
+**There is an ongoing effort to standardize the Extensions on different browsers, as [discussed on MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) and defined in the [WebExtensions Spec Draft](https://browserext.github.io/browserext/). The resources on [browser support](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) and [incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities) may be of interest.**
+
 chrome-extensions-examples
 ==========================
 
@@ -17,7 +19,7 @@ You can find the scraper used to generate this repository (except for a `git ini
 on [github](https://github.com/orbitbot/chrome-extension-scraper).
 
 
-Content is licensed under the [Google BSD License](http://code.google.com/google_bsd_license.html).
+Content is licensed under the [Google BSD License](https://developers.google.com/open-source/licenses/bsd).
 
 
 Example projects
@@ -32,7 +34,6 @@ Example projects
 * [Blank new tab page](/blank_ntp/)
 * [Block/allow referrer API example extension](/enableReferrer/)
 * [Block/allow third-party cookies API example extension](/allowThirdPartyCookies/)
-* [Broken Links](/broken-links/)
 * [BrowsingData API: Basics](/basic_1/)
 * [CLD](/cld/)
 * [Calculator](/app_1/)
@@ -44,6 +45,7 @@ Example projects
 * [Chromium IRC App](/app_2/)
 * [Chromium Search](/chrome_search/)
 * [Console TTS Engine](/console_tts_engine/)
+* [Constant Context](/constant_context/)
 * [Content settings](/contentSettings/)
 * [Context Menus Sample](/basic_2/)
 * [Context Menus Sample (with Event Page)](/event_page/)
@@ -56,6 +58,7 @@ Example projects
 * [Download Selected Links](/download_links/)
 * [Download and Open Button](/download_open/)
 * [Downloads Overwrite Existing Files](/downloads_overwrite/)
+* [Drink Water Event Popup](/water_alarm_notification/)
 * [Email this page (by Google)](/email_this_page/)
 * [Event Page Example](/basic_4/)
 * [Event Tracking with Google Analytics](/analytics/)
@@ -63,10 +66,13 @@ Example projects
 * [File System Provider API Extension Example](/basic_5/)
 * [FirePHP for Chrome](/chrome-firephp/)
 * [Getting started example](/getstarted/)
+* [Global Google Search](/global_context_search/)
 * [Google Calendar Checker (by Google)](/calendar/)
 * [Google Document List Viewer](/gdocs/)
 * [Google Mail Checker](/gmail/)
 * [Google Maps](/maps_app/)
+* [Hello Extensions](/hello_extensions/)
+* [History Override](/historyOverride/)
 * [Idle - Simple Example](/idle_simple/)
 * [Imageinfo](/imageinfo/)
 * [JavaScript pause/resume](/pause-resume/)
@@ -87,6 +93,7 @@ Example projects
 * [News Reader (by Google)](/news/)
 * [Notification Demo](/notifications/)
 * [Omnibox Example](/simple-example/)
+* [Omnibox New Tab Search](/newtab_search/)
 * [Page Redder](/make_page_red/)
 * [Page action by URL](/pageaction_by_url/)
 * [Page action by content](/pageaction_by_content/)
@@ -104,6 +111,7 @@ Example projects
 * [TTS Debug](/ttsdebug/)
 * [TTS Demo](/ttsdemo/)
 * [Tab Capture Example](/tabCapture/)
+* [Tab Flipper](/default_command_override/)
 * [Tab Inspector](/inspector/)
 * [Tab Shortcuts](/tab_shortcuts/)
 * [Tabs Zoom API Demo](/zoom/)
